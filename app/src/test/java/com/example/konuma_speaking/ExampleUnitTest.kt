@@ -1,4 +1,4 @@
-package com.example.konuma_speaking
+package com.konuma.speaking
 
 import org.junit.Test
 

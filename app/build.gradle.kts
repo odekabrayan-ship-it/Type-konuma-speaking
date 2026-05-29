@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.konuma_speaking"
+    namespace = "com.konuma.speaking"
     compileSdk {
         version = release(36) {
             minorApiLevel = 1
@@ -12,7 +12,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.example.konuma_speaking"
+        applicationId = "com.konuma.speaking"
         minSdk = 24
         targetSdk = 36
         versionCode = 1
